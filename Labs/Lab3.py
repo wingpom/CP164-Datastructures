@@ -1,8 +1,6 @@
 """
 -------------------------
-# Student Name: 
-# Student ID:
-# Student email:
+# Student Name: Quynh Dao
 #-------------------------
 """
 from copy import deepcopy
