@@ -1,8 +1,6 @@
 """
 -------------------------
 # Student Name: Quynh Dao
-# Student ID: 130440130
-# Student email: daox0130@mylaurier.ca
 #-------------------------
 """
 def recurrence1(i):
