@@ -1,10 +1,9 @@
 """
 -------------------------
 # Student Name: Quynh Dao
-# Student ID: 130440130
-# Student email: doax0130@mylaurier.ca
 #-------------------------
 """
+
 """----------- Task 1 ------------"""
 def product1(num,n):
     """
