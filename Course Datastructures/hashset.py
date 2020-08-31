@@ -1,9 +1,7 @@
 """
-----------------------------------------
-# Student Name:  Quynh Dao
-# Student ID:    130440130
-# Student email: daox0130@mylaurier.ca
-#---------------------------------------
+-------------------------
+# Student Name: Quynh Dao
+#-------------------------
 """
 from list import List 
 
