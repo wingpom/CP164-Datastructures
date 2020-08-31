@@ -1,3 +1,8 @@
+"""
+-------------------------
+# Student Name: Quynh Dao
+#-------------------------
+"""
 from copy import deepcopy
 class Student:
     def __init__(self,sid,last,first):
