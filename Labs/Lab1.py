@@ -1,11 +1,3 @@
-"""
--------------------------
-# Student Name: Quynh Dao
-# Student ID: 130440130
-# Student email: daox0130@mylaurier.ca
-#-------------------------
-"""
-from unittest.test.testmock.support import is_instance
 def flip_list_dict(collection):
     """
     -------------------------------------------------------
